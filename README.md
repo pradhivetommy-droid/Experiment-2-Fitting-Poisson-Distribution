@@ -14,10 +14,10 @@ Python and Visual Component Tool
 5. Applicable when events occur independently, singly, and at a constant rate.
 # Algorithm
 <img width="1144" height="412" alt="image" src="https://github.com/user-attachments/assets/6bf357bd-7ba2-4908-8c93-ef74e4747a4f" />
-# name: B.Ragul
-# ref.no: 25014743
-# slot.no: 3P1-1
-# date:16/11/2025.
+# name:B.Ragul
+# ref.no:25014743
+# slot.no:3P1-1
+# date: 16/11/2025.
 # Program
 ```
 # Exp: No-2
@@ -88,16 +88,18 @@ if cal_chi2_sq < table_chi2:
     print("Result: Data fits Poisson distribution at 1% LOS")
 else:
     print("Result: Data does NOT fit Poisson distribution at 1% LOS")
+
+
 ```
-# colab link:
+
+# colab link
 https://colab.research.google.com/drive/1aWCYyD8mQCQN4-jNcI4n99cAijyWMC2E?usp=sharing
+
+
 
 # Output
 
-<img width="666" height="313" alt="image" src="https://github.com/user-attachments/assets/617f1ffa-8c35-47e0-9829-d7963f2a060a" />
-
-
-
+<img width="633" height="316" alt="image" src="https://github.com/user-attachments/assets/cff7b4f8-3874-4469-be81-5da277ef4443" />
 
 
 # Result
