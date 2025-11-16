@@ -14,10 +14,14 @@ Python and Visual Component Tool
 5. Applicable when events occur independently, singly, and at a constant rate.
 # Algorithm
 <img width="1144" height="412" alt="image" src="https://github.com/user-attachments/assets/6bf357bd-7ba2-4908-8c93-ef74e4747a4f" />
+
+
 # name:B.Ragul
 # ref.no:25014743
 # slot.no:3P1-1
 # date: 16/11/2025.
+
+
 # Program
 ```
 # Exp: No-2
