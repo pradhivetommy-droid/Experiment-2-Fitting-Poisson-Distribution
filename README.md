@@ -89,10 +89,14 @@ if cal_chi2_sq < table_chi2:
 else:
     print("Result: Data does NOT fit Poisson distribution at 1% LOS")
 ```
-
+# colab link:
+https://colab.research.google.com/drive/1aWCYyD8mQCQN4-jNcI4n99cAijyWMC2E?usp=sharing
 
 # Output
-<img width="866" height="90" alt="image" src="https://github.com/user-attachments/assets/87fd4106-7e89-413c-967b-773fa35f44d6" />
+
+<img width="666" height="313" alt="image" src="https://github.com/user-attachments/assets/617f1ffa-8c35-47e0-9829-d7963f2a060a" />
+
+
 
 
 
